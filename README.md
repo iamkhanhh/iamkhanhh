@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nguyen Khanh</h1>
-<h3 align="center">A passionate Fullstack developer from Viet Nam</h3>
+<h3 align="center">A passionate developer from Viet Nam</h3>
 
 - 📫 How to reach me **khanh9102004@gmail.com**
+
+- I'm a junior developer, I can develop both frontend and backend applications.
 
 - Hope you find interested here !
 
