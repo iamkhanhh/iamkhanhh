@@ -8,7 +8,7 @@
 - Hope you find interested here !
 
 <h3 align="left">Languages and Tools:</h3>
-- Backend: Go, NodeJS, NestJS, Sails.js
-- Frontend: Angular, ReactJS, NextJS, AngularJS
-- Database: MySQL, MongoDB, PostgresSQL, Redis
-- Tools: Git, Docker, AWS, GCP
+<p>- Backend: Go, NodeJS, NestJS, Sails.js</p>
+<p>- Frontend: Angular, ReactJS, NextJS, AngularJS</p>
+<p>- Database: MySQL, MongoDB, PostgresSQL, Redis</p>
+<p>- Tools: Git, Docker, AWS, GCP</p>
